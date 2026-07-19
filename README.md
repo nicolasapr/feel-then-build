@@ -31,7 +31,7 @@ ADR-style decision records. The deeper catalogs live in
 
 ```
 /plugin marketplace add nicolasapr/feel-then-build
-/plugin install feel-then-build@nicolas
+/plugin install feel-then-build@nicolasapr
 ```
 
 Then run it with:
