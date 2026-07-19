@@ -8,6 +8,12 @@ no code; the output is a shared understanding you can hand to any structuring me
 It follows the style of Matt Pocock's `grill-*` skills: one question at a time, a
 recommended answer for each, facts looked up from the environment, decisions left to you.
 
+It's grounded in established requirements-engineering practice — elicitation (probing
+tacit needs rather than collecting stated ones), INVEST sizing, non-functional/quality
+attributes, EventStorming for domain logic, Given-When-Then acceptance criteria, and
+ADR-style decision records. The deeper catalogs live in
+[`skills/feel-then-build/references/checklists.md`](skills/feel-then-build/references/checklists.md).
+
 ## The two phases
 
 1. **The Feel** — how you should *feel* using it and what it does. Pure functionality and
