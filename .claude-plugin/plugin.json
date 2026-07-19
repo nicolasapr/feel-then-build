@@ -1,0 +1,19 @@
+{
+  "name": "feel-then-build",
+  "version": "0.1.0",
+  "description": "A relentless two-phase interview: first the feel (experience), then the build (implementation, part by part), keeping every decision with the user.",
+  "author": {
+    "name": "Nicolas",
+    "url": "https://github.com/nicolasapr"
+  },
+  "homepage": "https://github.com/nicolasapr/feel-then-build",
+  "repository": "https://github.com/nicolasapr/feel-then-build",
+  "license": "MIT",
+  "keywords": [
+    "grilling",
+    "feature-scoping",
+    "product-design",
+    "interview",
+    "spec"
+  ]
+}

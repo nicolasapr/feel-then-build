@@ -1,0 +1,23 @@
+{
+  "name": "nicolas",
+  "owner": {
+    "name": "Nicolas",
+    "url": "https://github.com/nicolasapr"
+  },
+  "description": "Feel Then Build — a two-part grilling interview for scoping new features before any code.",
+  "plugins": [
+    {
+      "name": "feel-then-build",
+      "source": "./",
+      "description": "A relentless two-phase interview: first the feel (experience), then the build (implementation, part by part), keeping every decision with the user.",
+      "category": "engineering",
+      "keywords": [
+        "grilling",
+        "feature-scoping",
+        "product-design",
+        "interview",
+        "spec"
+      ]
+    }
+  ]
+}
